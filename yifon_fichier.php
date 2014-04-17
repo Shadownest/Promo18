@@ -1,3 +1,3 @@
 <?php 
-   echo "Comment ça marche!";
+   echo "What to do?";
 ?>
