@@ -1,3 +1,3 @@
 <?php 
-   echo "What to do?";
+  echo "Nouveau restaurant";
 ?>
