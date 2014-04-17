@@ -1,9 +1,17 @@
 <!doctype html>
 <html>
   <head>
+    <title>Bonjour à tous</title>
   <style>
+  
+    body{background: red;}
+        h1{font-size: 5rem;
+        color: black}
   </style>
   </head>
   <body>
+  
+  
+    
   </body>
 </html>
