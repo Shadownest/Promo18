@@ -1,1 +1,3 @@
-yifon_fichier.php
+<?php 
+   echo "Bonjour";
+?>
